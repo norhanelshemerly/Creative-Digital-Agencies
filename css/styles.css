@@ -1,0 +1,458 @@
+/* style it */
+.container {
+    width: 900px;
+}
+
+.bgheader {
+    background-image: url('../images/bg-header.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    height: 880px;
+}
+
+.logo {
+    margin-top: 22px;
+}
+
+.title-page {
+    text-align: center;
+    padding-bottom: 40px;
+}
+.navigation{
+    margin-top:50px;
+}
+.nav li{
+    display: inline-block;
+    margin: 0 28px 0 0px;
+}
+.nav a{
+    color: #fff;
+    text-decoration: none;
+}
+.nav li a:hover{
+    border-bottom: 3px solid #11749e;
+    padding-bottom: 15px;
+}
+.socialMedia li{
+    display: inline-block;
+    margin: 0 0 0 15px;
+}
+.socialMedia li a{
+    color: #fff;
+}
+.socialMedia li a:hover{
+    color: #11749e;
+    text-decoration: none;
+}
+.title-page h1 {
+    font-size: 150px;
+    font-weight: bold;
+    color: #f5f5f5;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 250px;
+}
+
+.title-page h2 {
+    font-size: 20px;
+    font-weight: normal;
+    color: #11749e;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 20px;
+    margin-bottom: 150px;
+}
+
+.title-page h3 {
+    font-size: 13px;
+    font-weight: normal;
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.fa-stack {
+    color: #ffffff;
+    margin-top: 25px;
+}
+
+.features {
+    background-color: #11749e;
+}
+
+.relative-row {
+    position: relative;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.features h1 {
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+    font-weight: normal;
+    letter-spacing: 10px;
+    padding-top: 70px;
+    padding-bottom: 60px;
+}
+.letter1 {
+    font-size: 120px;
+    color: #fff;
+    opacity: 0.2;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    top: 3%;
+    font-weight: bold;
+}
+.circle {
+    width: 133px;
+    height: 133px;
+    border-radius: 100%;
+    background: #2e85aa;
+    margin-left: 30px;
+}
+
+.circle i {
+    color: #ffffff;
+    margin: 50px;
+}
+
+.contentAbout {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.contentText h2 {
+    font-size: 15px;
+    color: #ffffff;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 20px 0 20px 0;
+}
+
+.contentText p {
+    font-size: 10px;
+    color: #ffffff;
+    text-align: justify;
+    -moz-text-align-last: center;
+    text-align-last: center;
+    margin: 20px 0 20px 0;
+}
+
+.testImages {
+    background-color: #222222;
+    background-image: url(../images/pic1.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 50% 110%;
+}
+
+.testImagesLeft {
+    background-image: url(../images/pic2.jpg);
+    background-position: left top;
+    background-color: #f3f3f3;
+    background-size: 51% 125%;
+}
+
+.SecondText {
+    background-color: #f3f3f3;
+    color: #222222;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 40px;
+}
+
+.SecondText h4 {
+    font-size: 10px;
+
+}
+
+.SecondText h5 {
+    font-size: 25px;
+    margin: 20px 0px 20px 0;
+}
+
+.SecondText p {
+    font-size: 13px;
+
+}
+
+.firstText {
+    color: #ffffff;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #222222;
+    padding-right: 50px;
+    padding-left: 15px;
+}
+
+.firstText h4 {
+    font-size: 10px;
+
+}
+
+.firstText h5 {
+    font-size: 25px;
+    margin: 20px 0px 20px 0;
+
+}
+
+.firstText p {
+    font-size: 13px;
+}
+
+.features2 {
+    background-color: #ffffff;
+}
+
+.features2 h1 {
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #222222;
+    font-weight: normal;
+    letter-spacing: 10px;
+    padding-top: 70px;
+    padding-bottom: 35px;
+}
+
+.letter2 {
+    font-size: 120px;
+    color: #222222;
+    opacity: 0.2;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    top: 5%;
+    font-weight: bold;
+}
+
+.features2 h2 {
+    font-size: 20px;
+    text-align: center;
+    color: #222222;
+    font-weight: normal;
+    padding-bottom: 45px;
+}
+.imagesText23{
+    padding-bottom: 50px;
+}
+
+.FreshSummer img{
+    width: 100%;
+}
+.FreshSummer h3 {
+    font-size:13px;
+    color: #11749e;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.FreshSummer p{
+    font-size:10px;
+    color: #222222;
+    text-align: center;
+}
+.ContentFreshSummer{
+    background-color: #11749e;
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+.ContentFreshSummer p {
+    font-size: 10px;
+    color: #ffffff;
+    margin: -70px 0 0 89px;
+}
+.AkitaInuDog{
+    background-image: url('../images/pic8.jpg');
+    background-repeat: no-repeat;
+}
+.mobileLeft{
+    float: right;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.thirdText{
+    color: #ffffff;
+    padding-top: 230px;
+    padding-right: 50px;
+    padding-bottom: 70px;
+}
+.thirdText h5{
+    font-size: 25px;
+}
+.thirdText p{
+    font-size: 13px;
+    line-height: 155%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.thirdText ul{
+    list-style: none;
+    padding-left: 0px;
+    font-size: 13px;
+    text-transform: uppercase;
+    margin-top: 50px;
+}
+.thirdText li {
+    background-color: #11749e;
+    margin-bottom: 20px;
+    padding: 10px  20px;
+}
+.thirdText li:first-child{
+    margin-right: 200px;
+}
+.thirdText li:nth-child(2){
+    margin-right: 150px;
+}
+.thirdText li:last-child{
+    margin-right: 100px;
+}
+.ourteam{
+    background-color: #ffffff;
+}
+
+.OurTeam h1 {
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #222222;
+    font-weight: normal;
+    letter-spacing: 10px;
+    padding-top: 70px;
+    padding-bottom: 35px;
+}
+
+.letter3 {
+    font-size: 120px;
+    color: #222222;
+    opacity: 0.2;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    top: 5%;
+    font-weight: bold;
+}
+
+.OurTeam h2 {
+    font-size: 20px;
+    text-align: center;
+    color: #222222;
+    font-weight: normal;
+    padding-bottom: 45px;
+}
+.teamImages img{
+    width: 100%;
+}
+.teamNames{
+    text-align: center;
+    position: absolute;
+    bottom: -15px;
+    padding: 10px 20px;
+    background-color: #fff;
+    right: 15%;
+    left: 15%;
+}
+.teamNames .name{
+    background-color: #fff;
+    color: #11749e;
+    display: block;
+    font-size: 15px;
+}
+.teamNames .titles{
+    background-color: #fff;
+    color: #000000;
+    display: block;
+    font-size: 13px;
+}
+.teamImages{
+    margin-bottom: 80px;
+}
+.contactUs{
+    background-image:url('../images/pic14.jpg');
+}
+.letter4 {
+    font-size: 120px;
+    color: #fff;
+    opacity: 0.2;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    top: 34%;
+    font-weight: bold;
+}
+.contactUs h1 {
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+    font-weight: normal;
+    letter-spacing: 10px;
+    margin-top: 200px;
+    margin-bottom: 140px;
+}
+.contactDetails input{
+    font-size: 12px;
+    margin: 10px 0;
+    width: 100%;
+    border-radius: 0px;
+    background-color: transparent;
+    padding: 7px 10px;
+    border: 1px solid #ffffff;
+    height: 40px;
+}
+.contactDetails textarea{
+    font-size: 12px;
+    margin: 20px 0;
+    width: 100%;
+    border-radius: 0px;
+    background-color: transparent;
+    padding: 7px 10px;
+    border: 1px solid #ffffff;
+}
+.contactDetails button {
+    padding: 15px 65px;
+    background-color: #11749e;
+    border: transparent;
+    font-size: 14px;
+    margin-top: 15px;
+    margin-bottom: 50px;
+    color: #fff;
+}
+.contactDetails button:hover{
+    border: 1px solid #fff;
+    background-color: transparent;
+    color: #fff;
+    padding: 14px 64px;
+    margin-top: 15px;
+    margin-bottom: 50px;
+}
+.Map img{
+    width: 100%;
+}
+.footer{
+    background-color: #222222;
+    height: 80px;
+}
+.footer p{
+    color: #fff;
+    font-size: 11px;
+    padding-top: 40px;
+    margin: 0;
+}
+.footer img{
+    float: left;
+    padding-top: 25px;
+    margin: 0;
+
+}
+/* style it --Mobile View--*/
+@media screen and (max-width: 767px) {
+
+}
+
